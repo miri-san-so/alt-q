@@ -1,0 +1,1 @@
+.left-and-right{background-color:#f7f7f7;display:flex;gap:8rem;justify-content:space-between}@media screen and (max-width:768px){.left-and-right{flex-direction:row}}

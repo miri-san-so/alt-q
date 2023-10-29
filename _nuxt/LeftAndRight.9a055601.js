@@ -1,0 +1,1 @@
+import{_ as t,o as n,c as s,n as _}from"./entry.9a457ba0.js";const o={},c={class:"left-and-right"};function r(e,a){return n(),s("div",c,[_(e.$slots,"default")])}const l=t(o,[["render",r]]);export{l as default};
